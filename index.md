@@ -1,5 +1,4 @@
-# dsc90-wi22-hw06
-<title> Homework 6 for History of Data Science, Winter 2022 @ UC San Diego </title>
+# Homework 6 for History of Data Science, Winter 2022 @ UC San Diego
 
 <header> Question 1 </header>
 <iframe src='pump-map.html' width=500 height=350 frameBorder=0></iframe>
